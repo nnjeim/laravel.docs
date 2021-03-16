@@ -24,6 +24,24 @@
         </div>
     </div>
     <div>
+        <h2>Caching</h2>
+        <ul class="menu">
+            <li><a href="https://github.com/crowdfavorite/persist/blob/master/README.md" target="_blank">CrowdFavorite Persist</a></li>
+        </ul>
+    </div>
+     <div>
+        <h2>Http requests</h2>
+        <ul class="menu">
+            <li><a href="https://github.com/crowdfavorite/fetch/blob/master/README.md" target="_blank">CrowdFavorite Fetch</a></li>
+        </ul>
+    </div>
+    <div>
+        <h2>Responses</h2>
+        <ul class="menu">
+            <li><a href="https://github.com/crowdfavorite/respond/blob/master/README.md" target="_blank">CrowdFavorite Respond</a></li>
+        </ul>
+    </div>
+    <div>
         <h2>Code Styling</h2>
         <ul class="menu">
             <li><a href="/laravel.docs/views/codeStyle/phpCsFixer">Php CS fixer</a></li>
