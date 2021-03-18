@@ -106,5 +106,6 @@ Mix allows function call chaining as shown above. We compile js then sass then c
 
 #### Reference
 <a class="link" href="https://laravel.com/docs/8.x/mix" target="_blank">Laravel mix</a>  
-<a class="link" href="https://webpack.js.org/configuration/" target="_blank">Webpack config</a>
+<a class="link" href="https://webpack.js.org/configuration/" target="_blank">Webpack config</a>  
+<a class="link" href="https://laravel-mix.com/docs/6.0/installation" target="_blank">Laravel mix documentation</a>
 
